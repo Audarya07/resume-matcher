@@ -1,0 +1,70 @@
+{
+  "job_description": "data/job_description.txt",
+  "evaluations": [
+    {
+      "resume_file": "resume_01_backend_senior.txt",
+      "label": 1.0,
+      "category": "good_match",
+      "reasoning": "Senior backend engineer with 6 years experience. Strong Python and Go skills, extensive experience with REST APIs, microservices, PostgreSQL, AWS, Docker, Kubernetes. Excellent match for all required and preferred qualifications."
+    },
+    {
+      "resume_file": "resume_02_backend_mid.txt",
+      "label": 1.0,
+      "category": "good_match",
+      "reasoning": "Backend developer with 4 years experience. Strong Java and Python skills, experience with REST APIs, PostgreSQL, MySQL, Docker, AWS. Meets required qualifications well."
+    },
+    {
+      "resume_file": "resume_03_backend_go.txt",
+      "label": 1.0,
+      "category": "good_match",
+      "reasoning": "Backend engineer with 5 years experience specializing in Go. Strong experience with REST APIs, PostgreSQL, AWS, Docker, Kubernetes, microservices. Excellent technical fit."
+    },
+    {
+      "resume_file": "resume_04_frontend.txt",
+      "label": 0.5,
+      "category": "partial_match",
+      "reasoning": "Frontend engineer with React/TypeScript focus. Has some backend exposure (Node.js, REST APIs) but primarily frontend experience. Could potentially transition but not ideal match."
+    },
+    {
+      "resume_file": "resume_05_devops.txt",
+      "label": 0.5,
+      "category": "partial_match",
+      "reasoning": "DevOps engineer with strong infrastructure skills. Has Python scripting and understands backend systems but focuses on operations rather than application development. Related but different role."
+    },
+    {
+      "resume_file": "resume_06_data_engineer.txt",
+      "label": 0.5,
+      "category": "partial_match",
+      "reasoning": "Data engineer with Python and SQL experience. Has built backend APIs and understands databases but specializes in data pipelines rather than application backends. Transferable skills but different focus."
+    },
+    {
+      "resume_file": "resume_07_accountant.txt",
+      "label": 0.0,
+      "category": "poor_match",
+      "reasoning": "CPA with accounting and finance background. No software development experience. Skills in financial software (QuickBooks, SAP) are user-level, not development. Completely different field."
+    },
+    {
+      "resume_file": "resume_08_nurse.txt",
+      "label": 0.0,
+      "category": "poor_match",
+      "reasoning": "Registered nurse with healthcare experience. No technical or software development background. Technology experience limited to using EMR systems as end user. Unrelated field."
+    },
+    {
+      "resume_file": "resume_09_teacher.txt",
+      "label": 0.0,
+      "category": "poor_match",
+      "reasoning": "High school mathematics teacher. No software development experience. Technology skills limited to educational tools. Teaching experience not transferable to software engineering."
+    },
+    {
+      "resume_file": "resume_10_marketing.txt",
+      "label": 0.0,
+      "category": "poor_match",
+      "reasoning": "Marketing manager with digital marketing focus. No software development skills. Technology experience is with marketing tools and analytics platforms, not programming. Different career path."
+    }
+  ],
+  "label_definitions": {
+    "1.0": "Good Match - Strong candidate who meets most/all required qualifications",
+    "0.5": "Partial Match - Some relevant skills but significant gaps or different specialization",
+    "0.0": "Poor Match - Unrelated field with no transferable technical skills"
+  }
+}

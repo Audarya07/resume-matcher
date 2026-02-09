@@ -1,0 +1,36 @@
+SARAH JOHNSON
+Backend Developer
+Austin, TX | sarah.johnson@email.com | (512) 555-0202
+
+PROFESSIONAL SUMMARY
+Backend developer with 4 years of experience building web applications and APIs. Strong foundation in Java and Python with hands-on experience in database design and cloud services.
+
+WORK EXPERIENCE
+
+Backend Developer | Dell Technologies | Austin, TX | 2022 - Present
+- Develop and maintain RESTful APIs using Java Spring Boot
+- Design and optimize PostgreSQL database schemas for inventory management system
+- Implement automated testing with JUnit achieving 80% code coverage
+- Collaborate with cross-functional teams using Agile methodologies
+
+Junior Software Engineer | IBM | Austin, TX | 2020 - 2022
+- Built microservices using Python Flask for internal tooling platform
+- Created database migration scripts and maintained MySQL databases
+- Participated in code reviews and pair programming sessions
+- Documented API endpoints using Swagger/OpenAPI
+
+Software Development Intern | Local Startup | Austin, TX | Summer 2019
+- Developed backend features for mobile application using Node.js
+- Wrote unit tests and fixed bugs in existing codebase
+- Learned version control best practices with Git
+
+TECHNICAL SKILLS
+Programming: Java, Python, JavaScript, SQL
+Frameworks: Spring Boot, Flask, Express.js
+Databases: PostgreSQL, MySQL, MongoDB
+Tools: Git, Docker, Jenkins, JIRA, Confluence
+Cloud: AWS (EC2, S3, RDS), basic Kubernetes
+
+EDUCATION
+B.S. Computer Science | University of Texas at Austin | 2020
+GPA: 3.7/4.0

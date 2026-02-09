@@ -1,0 +1,36 @@
+ALEX KUMAR
+Software Engineer - Backend
+Seattle, WA | alex.kumar@email.com | (206) 555-0303 | github.com/alexkumar
+
+ABOUT ME
+Backend engineer specializing in Go and distributed systems. 5 years of experience building high-performance services at scale. Strong advocate for clean architecture and test-driven development.
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer II | Amazon Web Services | Seattle, WA | 2021 - Present
+- Design and implement backend services for AWS Lambda using Go
+- Build and maintain APIs serving millions of requests daily
+- Optimize service performance reducing P99 latency from 200ms to 50ms
+- Lead technical design reviews and architecture discussions
+- On-call responsibilities for tier-1 production services
+
+Software Engineer | Microsoft | Redmond, WA | 2019 - 2021
+- Developed microservices for Azure DevOps using C# and .NET Core
+- Implemented RESTful APIs and GraphQL endpoints
+- Designed database schemas using SQL Server and Cosmos DB
+- Contributed to CI/CD pipeline improvements
+
+Associate Software Engineer | Expedia | Seattle, WA | 2018 - 2019
+- Built backend features for hotel booking platform
+- Wrote integration tests and improved code quality
+- Participated in Agile ceremonies and sprint planning
+
+TECHNICAL EXPERTISE
+Languages: Go, Python, C#, Java, SQL
+Databases: PostgreSQL, DynamoDB, Redis, SQL Server
+Infrastructure: AWS, Azure, Docker, Kubernetes, Terraform
+Practices: TDD, CI/CD, Microservices, Event-Driven Architecture
+
+EDUCATION
+M.S. Computer Science | University of Washington | 2018
+B.S. Computer Engineering | University of Washington | 2016

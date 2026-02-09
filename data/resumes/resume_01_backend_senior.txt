@@ -1,0 +1,35 @@
+MICHAEL CHEN
+Senior Backend Engineer
+San Francisco, CA | michael.chen@email.com | (415) 555-0101 | linkedin.com/in/michaelchen
+
+SUMMARY
+Experienced backend engineer with 6 years of expertise in building scalable distributed systems. Passionate about clean code, system design, and mentoring junior developers. Strong background in Python and Go with extensive experience in cloud-native development.
+
+EXPERIENCE
+
+Senior Backend Engineer | Stripe | San Francisco, CA | 2021 - Present
+- Designed and implemented high-throughput payment processing APIs handling 10,000+ requests/second
+- Led migration of monolithic application to microservices architecture using Go and Kubernetes
+- Reduced API latency by 40% through database query optimization and caching strategies
+- Mentored team of 4 junior engineers and conducted technical interviews
+
+Backend Engineer | Uber | San Francisco, CA | 2019 - 2021
+- Developed RESTful APIs for driver matching service using Python and PostgreSQL
+- Implemented message queue system with Apache Kafka for real-time event processing
+- Collaborated with frontend team to design and document API contracts
+- Participated in on-call rotation and resolved production incidents
+
+Software Engineer | Startup XYZ | Palo Alto, CA | 2018 - 2019
+- Built backend services for e-commerce platform using Python/Django
+- Designed database schema and implemented data access layer
+- Wrote comprehensive unit and integration tests achieving 85% code coverage
+
+SKILLS
+Languages: Python, Go, Java, SQL
+Frameworks: Django, Flask, FastAPI, gRPC
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud/DevOps: AWS (EC2, RDS, Lambda), Docker, Kubernetes, Terraform
+Tools: Git, Jenkins, CircleCI, Datadog, PagerDuty
+
+EDUCATION
+B.S. Computer Science | Stanford University | 2018

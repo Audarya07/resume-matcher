@@ -1,0 +1,36 @@
+JESSICA WONG
+Data Engineer
+Chicago, IL | jessica.wong@email.com | (312) 555-0606
+
+SUMMARY
+Data engineer with 4 years of experience building data pipelines and analytics platforms. Strong SQL skills and experience with Python for data processing. Background in software development with focus on data infrastructure.
+
+EXPERIENCE
+
+Senior Data Engineer | Spotify | Chicago, IL (Remote) | 2022 - Present
+- Design and implement ETL pipelines using Apache Spark and Airflow
+- Build real-time streaming applications with Kafka
+- Optimize data warehouse queries in Snowflake and BigQuery
+- Collaborate with data scientists to deploy ML models to production
+
+Data Engineer | Groupon | Chicago, IL | 2020 - 2022
+- Developed data pipelines using Python and Apache Beam
+- Created data models and maintained PostgreSQL databases
+- Built dashboards and reports using Looker and Tableau
+- Wrote documentation for data lineage and schemas
+
+Software Developer | Tech Startup | Chicago, IL | 2019 - 2020
+- Built backend APIs for data collection using Python Flask
+- Designed database schemas for analytics platform
+- Implemented REST endpoints for reporting features
+
+TECHNICAL SKILLS
+Languages: Python, SQL, Scala, Java
+Data Tools: Apache Spark, Airflow, Kafka, dbt
+Databases: PostgreSQL, Snowflake, BigQuery, Redshift, MongoDB
+Cloud: AWS (S3, EMR, Glue), GCP (BigQuery, Dataflow)
+Other: Docker, Git, Terraform, REST APIs
+
+EDUCATION
+M.S. Data Science | Northwestern University | 2019
+B.S. Computer Science | University of Illinois | 2017

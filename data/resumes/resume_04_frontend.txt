@@ -1,0 +1,35 @@
+EMILY RODRIGUEZ
+Frontend Engineer
+New York, NY | emily.rodriguez@email.com | (212) 555-0404
+
+SUMMARY
+Creative frontend engineer with 4 years of experience building beautiful, responsive web applications. Expertise in React and TypeScript with a keen eye for UI/UX design. Some exposure to backend development through full-stack projects.
+
+EXPERIENCE
+
+Senior Frontend Engineer | Airbnb | New York, NY | 2022 - Present
+- Lead development of host dashboard using React and TypeScript
+- Implement responsive designs following accessibility guidelines (WCAG 2.1)
+- Collaborate with backend team on API contract design
+- Optimize bundle size and improve Core Web Vitals scores
+
+Frontend Developer | WeWork | New York, NY | 2020 - 2022
+- Built reusable component library using React and Storybook
+- Developed interactive data visualizations with D3.js
+- Integrated with REST APIs for real-time booking features
+- Wrote unit tests using Jest and React Testing Library
+
+Junior Web Developer | Digital Agency | New York, NY | 2019 - 2020
+- Created responsive websites using HTML, CSS, and JavaScript
+- Built simple Node.js/Express backends for client projects
+- Learned React and modern frontend development practices
+
+SKILLS
+Frontend: React, TypeScript, JavaScript, HTML5, CSS3, Redux
+Styling: Tailwind CSS, Styled Components, SASS
+Testing: Jest, Cypress, React Testing Library
+Tools: Git, Webpack, Vite, Figma
+Basic Backend: Node.js, Express, REST APIs
+
+EDUCATION
+B.A. Computer Science | NYU | 2019

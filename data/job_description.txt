@@ -1,0 +1,40 @@
+Backend Software Engineer
+
+Company: TechCorp Inc.
+Location: San Francisco, CA (Remote OK)
+Employment Type: Full-time
+
+About the Role:
+We are looking for an experienced Backend Software Engineer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable backend services that power our core platform.
+
+Responsibilities:
+- Design and implement RESTful APIs and microservices
+- Write clean, maintainable, and well-tested code
+- Collaborate with frontend engineers and product managers
+- Optimize application performance and scalability
+- Participate in code reviews and technical discussions
+- Troubleshoot and debug production issues
+- Contribute to system architecture decisions
+
+Required Qualifications:
+- 3+ years of experience in backend software development
+- Strong proficiency in Python, Java, or Go
+- Experience with relational databases (PostgreSQL, MySQL)
+- Familiarity with RESTful API design principles
+- Understanding of software design patterns and best practices
+- Experience with version control systems (Git)
+- Strong problem-solving and communication skills
+
+Preferred Qualifications:
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of containerization (Docker, Kubernetes)
+- Experience with message queues (RabbitMQ, Kafka)
+- Familiarity with CI/CD pipelines
+- Experience with NoSQL databases (MongoDB, Redis)
+- Understanding of microservices architecture
+
+Benefits:
+- Competitive salary and equity
+- Health and dental insurance
+- Flexible work arrangements
+- Professional development budget

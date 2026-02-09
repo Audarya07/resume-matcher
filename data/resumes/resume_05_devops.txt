@@ -1,0 +1,41 @@
+DAVID PARK
+DevOps Engineer
+Denver, CO | david.park@email.com | (303) 555-0505
+
+PROFESSIONAL SUMMARY
+DevOps engineer with 5 years of experience in cloud infrastructure, CI/CD pipelines, and site reliability. Strong scripting skills in Python and Bash. Passionate about automation and infrastructure as code.
+
+WORK HISTORY
+
+Senior DevOps Engineer | Dropbox | Denver, CO (Remote) | 2021 - Present
+- Design and maintain Kubernetes clusters across multiple AWS regions
+- Implement GitOps workflows using ArgoCD and Terraform
+- Build CI/CD pipelines with GitHub Actions and Jenkins
+- Reduce deployment time from 2 hours to 15 minutes through automation
+- On-call rotation for infrastructure incidents
+
+DevOps Engineer | Splunk | Denver, CO | 2019 - 2021
+- Managed AWS infrastructure using Terraform and CloudFormation
+- Containerized applications using Docker and deployed to ECS
+- Implemented monitoring and alerting with Prometheus and Grafana
+- Wrote Python scripts for automation and tooling
+
+Systems Administrator | Local Company | Denver, CO | 2018 - 2019
+- Maintained Linux servers and network infrastructure
+- Automated routine tasks using Bash scripts
+- Managed backups and disaster recovery procedures
+
+TECHNICAL SKILLS
+Cloud: AWS (EC2, EKS, RDS, S3, Lambda), GCP
+Containers: Docker, Kubernetes, Helm
+IaC: Terraform, CloudFormation, Ansible
+CI/CD: Jenkins, GitHub Actions, ArgoCD, CircleCI
+Monitoring: Prometheus, Grafana, Datadog, PagerDuty
+Scripting: Python, Bash, Go
+
+CERTIFICATIONS
+AWS Solutions Architect - Professional
+Certified Kubernetes Administrator (CKA)
+
+EDUCATION
+B.S. Information Technology | Colorado State University | 2018
